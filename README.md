@@ -28,6 +28,7 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 ## Developed by:
 
 NAME : JANA SHRAVIN S
+
 REG NO : 212224243003
 
 ## Program
@@ -138,4 +139,6 @@ else:
     print("Saved as output_with_glasses.jpg")
 ```
 ## output
+<img width="1570" height="235" alt="download" src="https://github.com/user-attachments/assets/88c15e22-cc72-4a48-a387-e5fcc4bc2b4b" />
+
 <img width="1260" height="463" alt="download" src="https://github.com/user-attachments/assets/b3b99c26-6685-4b3e-926b-d173fd958e52" />
